@@ -11,6 +11,6 @@
   "dest": "%programfiles(x86)%/Installer 01"
   "main": "install.js",
   "scripts": [],
-  "regfiels": []
+  "regfiles": []
   
 }
