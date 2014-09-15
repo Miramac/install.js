@@ -1,5 +1,5 @@
 {
-  "name": "Installer 01",
+  "name": "Installer Copy",
   "version": "0.0.0",
   "description": "",
   "keywords": [],
@@ -7,8 +7,8 @@
     "type": "svn",
     "url": "svn://"
    },
-  "src": "x:/installer01",
-  "dest": "%programfiles(x86)%/Installer 01"
+  "src": "x:/installer-copy",
+  "dest": "%programfiles(x86)%/Installer Copy"
   "main": "install.js",
   "scripts": [],
   "regfiles": []
