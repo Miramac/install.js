@@ -1,0 +1,16 @@
+{
+  "name": "Installer 01",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "repository": {
+    "type": "svn",
+    "url": "svn://"
+   },
+  "src": "x:/installer01",
+  "dest": "%programfiles(x86)%/Installer 01"
+  "main": "install.js",
+  "scripts": [],
+  "regfiels": []
+  
+}
