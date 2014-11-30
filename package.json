@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Miramac/install.js/issues"
   },
-  "homepage": "https://github.com/Miramac/install.js"
+  "homepage": "https://github.com/Miramac/install.js",
+  "dependencies": {
+    "ncp": "^1.0.1"
+  }
 }
